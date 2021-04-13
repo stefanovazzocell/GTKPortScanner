@@ -30,6 +30,9 @@ portscanner_sources = [
   'main.py',
   'window.py',
   'scanner.py',
+  'ports.py',
+  'portdata.py',
+  'packets.py',
 ]
 
 install_data(portscanner_sources, install_dir: moduledir)
