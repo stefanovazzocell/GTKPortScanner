@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=portscanner
+Exec=portscanner
+Icon=com.stefanovazzoler.portscanner
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

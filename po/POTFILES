@@ -1,0 +1,7 @@
+data/com.stefanovazzoler.portscanner.desktop.in
+data/com.stefanovazzoler.portscanner.appdata.xml.in
+data/com.stefanovazzoler.portscanner.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
